@@ -1,6 +1,6 @@
 # typedarray-methods
 
-Just make sure that _TypedArrays_ have complete methods (hello safari), like `fill`, `slice`, `map`, `reverse` etc.
+Polyfill to make sure that _TypedArrays_ have complete methods (hello safari), like `fill`, `slice`, `map`, `reverse` etc.
 
 ## Usage
 
